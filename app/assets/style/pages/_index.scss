@@ -9,10 +9,7 @@
 }
 .viewAdmin-card{
   img{
-    max-width: 141px;
-    height: 141px;
-  }
-  .card-head{
-    height: 24px; //不知道什麼讓此區塊高為40px
+    width: 100%;
+    min-height: 100%;
   }
 }
