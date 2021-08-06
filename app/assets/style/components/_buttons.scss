@@ -1,0 +1,17 @@
+.btn--success{
+    &:hover{
+        color: $light !important;
+        background-color: $success !important;
+    }
+}
+
+.btn--danger{
+    color: $danger !important;
+    &:hover{
+        color: $light !important;
+        background-color: $danger !important;
+    }
+}
+.btn-outline-gray-400{
+    border-color: $gray-400;
+  }

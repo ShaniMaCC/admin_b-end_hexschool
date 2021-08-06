@@ -1,0 +1,10 @@
+.pagination{
+    margin-top: 63px;
+    a:hover{
+        background-color: $success;
+        color: $light;
+        span{
+            color: $light;
+        }
+    }
+}

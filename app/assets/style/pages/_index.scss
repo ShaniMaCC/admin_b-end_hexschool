@@ -1,0 +1,18 @@
+.admin{
+  margin-left: 296px;
+  &-add{
+    padding-left: 47px;
+  }
+  &-memberContent{
+    height: 55px;
+  }
+}
+.viewAdmin-card{
+  img{
+    max-width: 141px;
+    height: 141px;
+  }
+  .card-head{
+    height: 24px; //不知道什麼讓此區塊高為40px
+  }
+}
