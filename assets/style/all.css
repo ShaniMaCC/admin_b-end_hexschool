@@ -12723,12 +12723,8 @@ hr {
 }
 
 .viewAdmin-card img {
-  max-width: 141px;
-  height: 141px;
-}
-
-.viewAdmin-card .card-head {
-  height: 24px;
+  width: 100%;
+  min-height: 100%;
 }
 
 /*# sourceMappingURL=all.css.map */
